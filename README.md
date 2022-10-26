@@ -20,6 +20,8 @@
 ## Daftar Project
 * Real-time Weather App | <a href="https://sleepingatparty.xyz/javascript/weather">Live Demo</a>
 * Speech Detection | <a href="https://sleepingatparty.xyz/javascript/speech-detection">Live Demo</a>
+* QR Code Maker | <a href="https://sleepingatparty.xyz/javascript/qr-maker">Live Demo</a>
+* URL Shortner | <a href="https://sleepingatparty.xyz/javascript/url-short">Live Demo</a>
 
 ## Thank you!
 This project still on going..
